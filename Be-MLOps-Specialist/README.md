@@ -4,8 +4,8 @@ I'm studying Coursera 'MLOps Specialization' Course with my friends at PseudoLab
 <br>
 
 ## Course1 - Introduction to Machine Learning in Production
-* Week 1. Overview of the ML Lifecycle and Deployment: [link]()
-* Week 2: Select and Train a Model: [link]()
+* Week 1. Overview of the ML Lifecycle and Deployment: [link](https://github.com/Steve-YJ/MLOps-Specialist-from-scratch/blob/main/Be-MLOps-Specialist/MLOps-specialization-ppt/02.%20Course1.%20Week1.%20Overview%20of%20the%20ML%20Lifecycle%20and%20Deployment_fin.pdf)
+* Week 2: Select and Train a Model: [link](https://github.com/Steve-YJ/MLOps-Specialist-from-scratch/blob/main/Be-MLOps-Specialist/MLOps-specialization-ppt/03.%20Course1.%20Week2.%20Select%20and%20Train%20a%20Model_fin.21.08.09.mon.pdf)
 * Week 3: Week 3: Data Definition and Baseline: [link]()
 
 ## Course2 - Machine Learning Data Lifecycle in Production
