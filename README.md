@@ -7,6 +7,8 @@
 I'm studying Coursera 'MLOps Specialization' Course with my friends at PseudoLab [about PseudoLab](https://pseudo-lab.com/)
 <br>
 
+### Preparation
+- [x] Orientation (21.07.25.sun) [link]()
 ### Course1 - Introduction to Machine Learning in Production
 - [x] Week 1. Overview of the ML Lifecycle and Deployment: [link](https://github.com/Steve-YJ/MLOps-Specialist-from-scratch/blob/main/Be-MLOps-Specialist/MLOps-specialization-ppt/02.%20Course1.%20Week1.%20Overview%20of%20the%20ML%20Lifecycle%20and%20Deployment_fin.pdf)
 - [x] Week 2: Select and Train a Model: [link](https://github.com/Steve-YJ/MLOps-Specialist-from-scratch/blob/main/Be-MLOps-Specialist/MLOps-specialization-ppt/03.%20Course1.%20Week2.%20Select%20and%20Train%20a%20Model_fin.21.08.09.mon.pdf)
