@@ -5,7 +5,7 @@
 * AWS MLops Framework -AWS Docs-[link](https://aws.amazon.com/ko/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-mlops-framework-adds-model-monitoring-pipeline/)
 ### Eng
 **Step Functions with SageMaker**<br>
-* Sagemaker AND STEP FUNCTIONS [link](https://www.sagemakerworkshop.com/introduction/)
+* Sagemaker AND Step Functions [link](https://www.sagemakerworkshop.com/introduction/)
 * AWS Step Functions [link](https://aws.amazon.com/ko/blogs/machine-learning/category/application-services/aws-step-functions/)
 * Steps Functions Tutorials -AWS Workshop- [link](https://mlops-and-integrations.workshop.aws/steps_functions.html)
 * Simple MLOps with Amazon SageMaker, Lambda and AWS Step Functions Data Science SDK -toward DS-[link](https://towardsdatascience.com/simple-mlops-with-amazon-sagemaker-lambda-and-aws-step-functions-data-science-sdk-e8052825a56c)
