@@ -1,7 +1,7 @@
 ## Implement ML Pipeline with AWS Services
 ### References
 ### Kor
-* AWS MLOps Framework -AWS- [link](https://aws.amazon.com/ko/solutions/implementations/aws-mlops-framework/){:target="_blank"}
+* AWS MLOps Framework -AWS- <a href="https://aws.amazon.com/ko/solutions/implementations/aws-mlops-framework/" target="_blank">link</a>
 * AWS MLops Framework -AWS Docs-[link](https://aws.amazon.com/ko/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-mlops-framework-adds-model-monitoring-pipeline/)
 ### Eng
 **Step Functions with SageMaker**<br>
