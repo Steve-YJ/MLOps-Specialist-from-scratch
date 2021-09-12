@@ -1,4 +1,5 @@
 # MLOps-Specialist-from-scratch
+![mlops-image](https://analyticsindiamag.com/wp-content/uploads/2021/05/1620944249180.jpg)
 > This repository is for who want to become MLOps Specialist. enjoy it!
 <br>
 
