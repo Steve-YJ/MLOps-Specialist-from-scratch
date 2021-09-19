@@ -1,4 +1,5 @@
 # MLOps-Specialist-from-scratch
+![mlops-image](https://analyticsindiamag.com/wp-content/uploads/2021/05/1620944249180.jpg)
 > This repository is for who want to become MLOps Specialist. enjoy it!
 <br>
 
@@ -17,8 +18,8 @@ I'm studying Coursera 'MLOps Specialization' Course with my friends at PseudoLab
 ### Course2 - Machine Learning Data Lifecycle in Production
 - [x] Week 1: Collecting, Labeling and Validating Data: [link]()
 - [x] Week 2: Feature Engineering, Transformation and Selection: [link]()
-- [ ] Week 3: Data Journey and Data Storage: [link]()
-- [ ] Week 4 (Optional): Advanced Labeling, Augmentation and Data Preprocessing: [link]()
+- [x] Week 3: Data Journey and Data Storage: [link]()
+- [x] Week 4 (Optional): Advanced Labeling, Augmentation and Data Preprocessing: [link]()
 
 ### Machine Learning Modeling Pipelines in Production
 - [ ] Week 1: Neural Architecture Search: [link]()
